@@ -6,7 +6,7 @@ namespace Carter_Encyption_Project
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello there general Kenobi!");
         }
     }
 }
